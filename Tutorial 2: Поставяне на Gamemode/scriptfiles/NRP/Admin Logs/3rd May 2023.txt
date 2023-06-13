@@ -1,0 +1,12 @@
+[18:55:29] Didkou_Didkow(ID 0): /atm
+[18:55:45] Didkou_Didkow(ID 0): /createveh 560 0 0
+[18:56:16] Didkou_Didkow(ID 0): /atm
+[18:56:18] Didkou_Didkow(ID 0): /atm
+[18:56:20] Didkou_Didkow(ID 0): /atm
+[18:57:56] Didkou_Didkow(ID 0): /gotocor 2334.31900000, 57.43700000, 26.12700000
+[18:58:01] Didkou_Didkow(ID 0): /gotocor 2334.31900000 57.43700000 26.12700000
+[18:58:08] Didkou_Didkow(ID 0): /atm
+[18:58:12] Didkou_Didkow(ID 0): /atm
+[18:58:16] Didkou_Didkow(ID 0): /atm
+[18:58:17] Didkou_Didkow(ID 0): /atm
+[18:58:19] Didkou_Didkow(ID 0): /atm

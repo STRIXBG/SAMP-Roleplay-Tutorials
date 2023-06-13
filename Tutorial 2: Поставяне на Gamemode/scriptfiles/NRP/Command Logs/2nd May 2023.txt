@@ -1,0 +1,3 @@
+[20:24:18] Didkou_Didkow(ID 0): /help
+[20:27:15] Didkou_Didkow(ID 0): /gotocor
+[20:27:25] Didkou_Didkow(ID 0): /makeadmin 3 5
